@@ -4,7 +4,6 @@
 
 <a href="https://www.linkedin.com/in/aayushsinha/"><img src="https://img.shields.io/badge/-@aayushsinha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayushsinha/" height="30"/></a> &nbsp;
 <a href="https://aayusharyan.medium.com/"><img src="https://img.shields.io/badge/-@aayusharyan-000000?style=flat&logo=Medium&logoColor=white&link=https://aayusharyan.medium.com/" height="30"/></a> &nbsp;
-<a href="https://www.facebook.com/aayush.aryan/"><img src="https://img.shields.io/badge/-@aayush.aryan-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/aayush.aryan/" height="30"/></a> &nbsp;
 <a href="https://www.instagram.com/yush.dev/"><img src="https://img.shields.io/badge/-@yush.dev-purple?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yush.dev/" height="30"/></a> &nbsp;
 <a href="https://www.youtube.com/aayushsinhaofficial"><img src="https://img.shields.io/badge/-@aayushsinhaofficial-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/aayushsinhaofficial" height="30"/></a>
 
