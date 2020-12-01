@@ -15,6 +15,11 @@ Except programming and tech, I like to research about various financial instrume
 
 ## Tech I know
 <code><img title="PHP" height="25" src="https://www.php.net/images/logos/php-logo-bigger.png"></code>
+<code><img title="Java" height="25" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></code>
+<code><img title="VueJS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
+
+
+<!-- Past Projects showcase -->
 
 <!--
 **aayusharyan/aayusharyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
