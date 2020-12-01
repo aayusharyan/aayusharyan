@@ -1,6 +1,6 @@
 ![](https://media-exp1.licdn.com/dms/image/C5616AQFUXvvgEPWjCg/profile-displaybackgroundimage-shrink_350_1400/0/1517464886072?e=1612396800&v=beta&t=HqdNZaglCwQpHMULWe3GOlckO96AhXrnfFjkRBfLwfk)
 
-# Hi 👋, I am Aayush Sinha
+# Hi <a href="http://www.aayushsinha.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I am Aayush Sinha
 
 <!--
 **aayusharyan/aayusharyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
