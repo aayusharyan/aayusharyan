@@ -9,6 +9,13 @@
 <a href="https://www.youtube.com/aayushsinhaofficial"><img src="https://img.shields.io/badge/-@aayushsinhaofficial-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/aayushsinhaofficial" height="30"/></a>
 
 
+I am a Software Engineer :computer: from India. Currently working [@Kemuri Technology](https://kemuri.in/) as a Senior Systems Engineer. I have worked on various languages but these days I am working on PHP and VueJS mainly. I am also pursuing my Master's Degree [@BITS Pilani](https://www.bits-pilani.ac.in/) with specialization in Security :books:.
+
+Except programming and tech, I like to research about various financial instruments as it is my dream to become financially independent one day :moneybag:. You can follow my journey on [Medium](https://aayusharyan.medium.com/) and [YouTube](https://www.youtube.com/aayushsinhaofficial).
+
+## Tech I know
+<code><img title="PHP" height="25" src="https://www.php.net/images/logos/php-logo-bigger.png"></code>
+
 <!--
 **aayusharyan/aayusharyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
