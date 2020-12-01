@@ -18,6 +18,7 @@ Except programming and tech, I like to research about various financial instrume
 <code><img title="Java" height="25" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></code>
 <code><img title="VueJS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
 
+There are a lot of other things I know of but not listing because I am kind of beginner in that!
 
 <!-- Past Projects showcase -->
 
@@ -35,4 +36,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
+
+## That's it for now
+Here is a secret footage of me working. :point_down:
+
+<img src="https://media1.giphy.com/media/Uv0VUrAT6FtMQ/giphy.gif" />
+
+
+All gifs are powered by GIPHY.
