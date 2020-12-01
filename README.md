@@ -1,12 +1,12 @@
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQFUXvvgEPWjCg/profile-displaybackgroundimage-shrink_350_1400/0/1517464886072?e=1612396800&v=beta&t=HqdNZaglCwQpHMULWe3GOlckO96AhXrnfFjkRBfLwfk" />
 
-# Hi <a href="http://www.aayushsinha.com/" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I am Aayush Sinha
+# Hi <a href="http://www.aayushsinha.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I am Aayush Sinha
 
-<a href="https://www.linkedin.com/in/aayushsinha/" target="_blank"><img src="https://img.shields.io/badge/-@aayushsinha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayushsinha/" height="30"/></a> &emsp;
-<a href="https://aayusharyan.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-@aayusharyan-000000?style=flat&logo=Medium&logoColor=white&link=https://aayusharyan.medium.com/" height="30"/></a> &emsp;
-<a href="https://www.facebook.com/aayush.aryan/" target="_blank"><img src="https://img.shields.io/badge/-@aayush.aryan-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/aayush.aryan/" height="30"/></a> &emsp;
-<a href="https://www.instagram.com/yush.dev/" target="_blank"><img src="https://img.shields.io/badge/-@yush.dev-purple?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yush.dev/" height="30"/></a> &emsp;
-<a href="https://www.youtube.com/aayushsinhaofficial" target="_blank"><img src="https://img.shields.io/badge/-@aayushsinhaofficial-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/aayushsinhaofficial" height="30"/></a>
+<a href="https://www.linkedin.com/in/aayushsinha/"><img src="https://img.shields.io/badge/-@aayushsinha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayushsinha/" height="30"/></a> &emsp;
+<a href="https://aayusharyan.medium.com/"><img src="https://img.shields.io/badge/-@aayusharyan-000000?style=flat&logo=Medium&logoColor=white&link=https://aayusharyan.medium.com/" height="30"/></a> &emsp;
+<a href="https://www.facebook.com/aayush.aryan/"><img src="https://img.shields.io/badge/-@aayush.aryan-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/aayush.aryan/" height="30"/></a> &emsp;
+<a href="https://www.instagram.com/yush.dev/"><img src="https://img.shields.io/badge/-@yush.dev-purple?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yush.dev/" height="30"/></a> &emsp;
+<a href="https://www.youtube.com/aayushsinhaofficial"><img src="https://img.shields.io/badge/-@aayushsinhaofficial-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/aayushsinhaofficial" height="30"/></a>
 
 
 <!--
