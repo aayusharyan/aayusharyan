@@ -10,7 +10,7 @@
 
 I am a Software Engineer :computer: from India. Currently working [@Kemuri Technology](https://kemuri.in/) as a Senior Systems Engineer. I have worked on various languages but these days I am working on PHP and VueJS mainly. I am also pursuing my Master's Degree [@BITS Pilani](https://www.bits-pilani.ac.in/) with specialization in Security :books:.
 
-Except programming and tech, I like to research about various financial instruments as it is my dream to become financially independent one day :moneybag:. You can follow my journey on [Medium](https://aayusharyan.medium.com/) and [YouTube](https://www.youtube.com/aayushsinhaofficial).
+Except programming and tech, I like to research about various financial instruments as it is my goal to become financially independent one day :moneybag:. You can follow my journey on [Medium](https://aayusharyan.medium.com/) and [YouTube](https://www.youtube.com/aayushsinhaofficial).
 
 ## Tech I know
 <code><img title="PHP" height="25" src="https://www.php.net/images/logos/php-logo-bigger.png"></code>
