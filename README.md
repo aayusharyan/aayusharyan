@@ -1,5 +1,3 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQFUXvvgEPWjCg/profile-displaybackgroundimage-shrink_350_1400/0/1517464886072?e=1612396800&v=beta&t=HqdNZaglCwQpHMULWe3GOlckO96AhXrnfFjkRBfLwfk" />
-
 # Hi <a href="http://www.aayushsinha.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I am Aayush Sinha
 
 <a href="https://www.linkedin.com/in/aayushsinha/"><img src="https://img.shields.io/badge/-@aayushsinha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayushsinha/" height="30"/></a> &nbsp;
