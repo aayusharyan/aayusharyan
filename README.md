@@ -39,5 +39,8 @@ Here is a secret footage of me working. :point_down:
 
 <img src="https://media1.giphy.com/media/Uv0VUrAT6FtMQ/giphy.gif" />
 
+Here are my Github stats. :octocat:
+
+[![Aayush's Github Stats](https://github-readme-stats.vercel.app/api?username=aayusharyan&show_icons=true&theme=radical&private=true)](https://github-readme-stats.vercel.app/api?username=aayusharyan&show_icons=true&theme=radical&private=true)
 
 All gifs are powered by GIPHY.
