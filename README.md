@@ -41,6 +41,6 @@ Here is a secret footage of me working. :point_down:
 
 Here are my Github stats. :octocat:
 
-[![Aayush's Github Stats](https://github-readme-stats.vercel.app/api?username=aayusharyan&show_icons=true&theme=radical&private=true)](https://github-readme-stats.vercel.app/api?username=aayusharyan&show_icons=true&theme=radical&private=true)
+[![Aayush's Github Stats](https://github-readme-stats.vercel.app/api?username=aayusharyan&show_icons=true&theme=tokyonight&private=true)](https://github-readme-stats.vercel.app/api?username=aayusharyan&show_icons=true&theme=tokyonight&private=true)
 
 All gifs are powered by GIPHY.
