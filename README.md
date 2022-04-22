@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/aayushsinha/"><img src="https://img.shields.io/badge/-@aayushsinha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayushsinha/" height="30"/></a> &nbsp;
 <a href="https://aayusharyan.medium.com/"><img src="https://img.shields.io/badge/-@aayusharyan-000000?style=flat&logo=Medium&logoColor=white&link=https://aayusharyan.medium.com/" height="30"/></a> &nbsp;
 <a href="https://www.instagram.com/yush.dev/"><img src="https://img.shields.io/badge/-@yush.dev-purple?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yush.dev/" height="30"/></a> &nbsp;
-<a href="https://www.youtube.com/aayushsinhaofficial"><img src="https://img.shields.io/badge/-@aayushsinhaofficial-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/aayushsinhaofficial" height="30"/></a>
+<!-- <a href="https://www.youtube.com/aayushsinhaofficial"><img src="https://img.shields.io/badge/-@aayushsinhaofficial-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/aayushsinhaofficial" height="30"/></a> -->
 
 
 I am a Software Engineer :computer: from India. Currently working [@Kemuri Technology](https://kemuri.in/) as a Senior Systems Engineer. I have worked on various languages but these days I am working on PHP and VueJS mainly. I am also pursuing my Master's Degree [@BITS Pilani](https://www.bits-pilani.ac.in/) with specialization in Security :books:.
