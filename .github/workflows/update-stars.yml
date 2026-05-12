@@ -1,0 +1,82 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Aayush Sinha
+#
+# update-stars.yml - GitHub Actions workflow that keeps README.md star
+# counts up to date by running scripts/update_stars.py on a schedule.
+#
+# Triggers
+# --------
+# schedule      Runs automatically every day at 00:00 UTC.
+# workflow_dispatch
+#               Can be triggered manually from the Actions tab in the
+#               GitHub UI at any time, without waiting for the schedule.
+#
+# Permissions
+# -----------
+# contents: Write is required so the job can commit and push the updated
+# README.md back to the repository. All other default permissions are
+# left at their restrictive defaults (read-only) intentionally.
+#
+# Secrets
+# -------
+# secrets.GITHUB_TOKEN is provisioned automatically by GitHub for every
+# workflow run - no manual secret configuration is needed.  It is used
+# both to authenticate the GitHub API calls inside the script (raising
+# the rate limit from 60 to 5 000 req/hour) and to authorise the git
+# push at the end of the job.
+#
+# No-op behaviour
+# ---------------
+# The final step checks `git diff` before committing. If the script
+# determined that no star counts changed it will not have modified
+# README.md, so git diff produces no output and the commit is skipped.
+# This prevents empty "chore: update star counts" commits on quiet days.
+
+name: Update Star Counts
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Full clone is not needed; depth=1 keeps checkout fast.
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      # The script uses only the standard library, but setup-python pins
+      # the interpreter version for reproducibility across runner images.
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      # GITHUB_TOKEN is forwarded as an env var so the script can attach
+      # it as a Bearer token on GitHub API requests.
+      - name: Fetch star counts and update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_stars.py
+
+      # Configure git identity required for commits made by automation.
+      # The noreply address is the canonical bot identity GitHub recognises.
+      # The commit is skipped entirely when README.md has no diff.
+      - name: Commit and push if README changed
+        run: |
+          git config user.name "Aayush Sinha"
+          git config user.email "hello@yush.dev"
+          git diff --quiet README.md || (
+            git add README.md &&
+            git commit -m "chore: Update star counts" &&
+            git push
+          )
