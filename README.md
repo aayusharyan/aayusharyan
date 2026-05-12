@@ -1,6 +1,6 @@
 ## WIP
 
-- https://github.com/aayusharyan/last-page-collection ➤ 8⭐
+- [Last Page Collection](https://github.com/aayusharyan/last-page-collection) - [ 8⭐]
 - https://github.com/aayusharyan/knell ➤ 8⭐
 - https://github.com/aayusharyan/yush.dev ➤ 8⭐
 - https://github.com/aayusharyan/contactly ➤ 8⭐
