@@ -1,8 +1,8 @@
 ## WIP
 
-- https://github.com/aayusharyan/last-page-collection
-- https://github.com/aayusharyan/knell
-- https://github.com/aayusharyan/yush.dev
-- https://github.com/aayusharyan/contactly
-- https://github.com/aayusharyan/pxe-pilot
-- https://github.com/aayusharyan/public-keys
+- https://github.com/aayusharyan/last-page-collection ➤ 8⭐
+- https://github.com/aayusharyan/knell ➤ 8⭐
+- https://github.com/aayusharyan/yush.dev ➤ 8⭐
+- https://github.com/aayusharyan/contactly ➤ 8⭐
+- https://github.com/aayusharyan/pxe-pilot ➤ 8⭐
+- https://github.com/aayusharyan/public-keys ➤ 8⭐
