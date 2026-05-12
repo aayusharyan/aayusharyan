@@ -9,3 +9,6 @@
 - [Contactly](https://github.com/aayusharyan/contactly) - Syncs Google and iCloud contacts with PBX database for caller ID name lookup. [ 3⭐]
 - [PXE Pilot](https://github.com/aayusharyan/pxe-pilot) - Steer your homelab's PXE boot. [ 4⭐]
 - [Public Keys](https://github.com/aayusharyan/public-keys) - My SSH public keys. [ 1⭐]
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aayusharyan&theme=dark)](https://git.io/streak-stats)
