@@ -1,3 +1,9 @@
+[![Hero Image](images/banner.png)](https://yush.dev)
+
+<h3 align="center">
+	Hello | नमस्ते | Bonjour | สวัสดี | Hola | مرحبا | こんにちは
+</h3>
+
 ## Projects
 
 - [PXE Pilot](https://github.com/aayusharyan/pxe-pilot) - Steer your homelab's PXE boot. [ 4⭐]
