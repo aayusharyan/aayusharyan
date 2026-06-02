@@ -12,7 +12,7 @@ Except programming and tech, I like to research about various financial instrume
 
 # OSS Projects
 
-- [PXE Pilot](https://github.com/aayusharyan/pxe-pilot) - Steer your homelab's PXE boot. [ 4⭐]
+- [PXE Pilot](https://github.com/aayusharyan/pxe-pilot) - Steer your homelab's PXE boot. [ 3⭐]
 - [Lab Map](https://github.com/aayusharyan/lab-map) - An interactive canvas-based visualizer for datacenter and lab infrastructure. [ 2⭐]
 - [Knell](https://github.com/aayusharyan/knell) - The sound a bell makes. [ 1⭐]
 - [yush.dev](https://github.com/aayusharyan/yush.dev) - Landing page for Aayush Sinha. [ 4⭐]
