@@ -21,7 +21,7 @@ Except programming and tech, I like to research about various financial instrume
 - [Contactly](https://github.com/aayusharyan/contactly) - Syncs Google and iCloud contacts with PBX database for caller ID name lookup. [ 3⭐]
 - [TokiTab](https://github.com/aayusharyan/tokitab) - New Tab page [ 3⭐]
 - [Public Keys](https://github.com/aayusharyan/public-keys) - My SSH public keys. [ 1⭐]
-- [Fake IIS](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8. [ 35⭐]
+- [Fake IIS](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8. [ 34⭐]
 
 ---
 
