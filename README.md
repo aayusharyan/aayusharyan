@@ -12,16 +12,16 @@ Except programming and tech, I like to research about various financial instrume
 
 # OSS Projects
 
+- [yush.dev](https://github.com/aayusharyan/yush.dev) - Landing page for Aayush Sinha. [ 4⭐]
+- [Particle Text](https://github.com/aayusharyan/particle-text) - Library to create Text using Particles. [ 8⭐]
 - [Knell](https://github.com/aayusharyan/knell) - The sound a bell makes. [ 1⭐]
+- [Lab Map](https://github.com/aayusharyan/lab-map) - An interactive canvas-based visualizer for datacenter and lab infrastructure. [ 2⭐]
 - [Fake IIS](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8. [ 36⭐]
+- [Contactly](https://github.com/aayusharyan/contactly) - Syncs Google and iCloud contacts with PBX database for caller ID name lookup. [ 3⭐]
+- [TokiTab](https://github.com/aayusharyan/tokitab) - New Tab page [ 3⭐]
+- [PXE Pilot](https://github.com/aayusharyan/pxe-pilot) - Steer your homelab's PXE boot. [ 3⭐]
 - [Last Page Collection](https://github.com/aayusharyan/last-page-collection) - Collection of Interesting Last Pages. [ 57⭐]
 - [Public Keys](https://github.com/aayusharyan/public-keys) - My SSH public keys. [ 1⭐]
-- [PXE Pilot](https://github.com/aayusharyan/pxe-pilot) - Steer your homelab's PXE boot. [ 3⭐]
-- [TokiTab](https://github.com/aayusharyan/tokitab) - New Tab page [ 3⭐]
-- [Particle Text](https://github.com/aayusharyan/particle-text) - Library to create Text using Particles. [ 8⭐]
-- [yush.dev](https://github.com/aayusharyan/yush.dev) - Landing page for Aayush Sinha. [ 4⭐]
-- [Contactly](https://github.com/aayusharyan/contactly) - Syncs Google and iCloud contacts with PBX database for caller ID name lookup. [ 3⭐]
-- [Lab Map](https://github.com/aayusharyan/lab-map) - An interactive canvas-based visualizer for datacenter and lab infrastructure. [ 2⭐]
 
 ---
 
