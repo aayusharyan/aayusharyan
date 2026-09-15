@@ -22,7 +22,7 @@ Except programming and tech, I like to research about various financial instrume
 - [yush.dev](https://github.com/aayusharyan/yush.dev) - Landing page for Aayush Sinha. [ 4⭐]
 - [Contactly](https://github.com/aayusharyan/contactly) - Syncs Google and iCloud contacts with PBX database for caller ID name lookup. [ 3⭐]
 - [Particle Text](https://github.com/aayusharyan/particle-text) - Library to create Text using Particles. [ 8⭐]
-- [Looop Price Warehouse](https://github.com/aayusharyan/looop-price-warehouse) - Warehouse collector for Looop Denki electricity price data. [ 0⭐]
+- [Looop Price Warehouse](https://github.com/aayusharyan/looop-price-warehouse) - Warehouse collector for Looop Denki electricity price data. [ 1⭐]
 
 
 ---
