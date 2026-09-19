@@ -13,7 +13,7 @@ Except programming and tech, I like to research about various financial instrume
 # OSS Projects
 
 - [Fake IIS](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8. [ 37⭐]
-- [Last Page Collection](https://github.com/aayusharyan/last-page-collection) - Collection of Interesting Last Pages. [ 57⭐]
+- [Last Page Collection](https://github.com/aayusharyan/last-page-collection) - Collection of Interesting Last Pages. [ 58⭐]
 - [TokiTab](https://github.com/aayusharyan/tokitab) - New Tab page [ 3⭐]
 - [Public Keys](https://github.com/aayusharyan/public-keys) - My SSH public keys. [ 1⭐]
 - [Lab Map](https://github.com/aayusharyan/lab-map) - An interactive canvas-based visualizer for datacenter and lab infrastructure. [ 2⭐]
