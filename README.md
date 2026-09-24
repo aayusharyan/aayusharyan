@@ -23,7 +23,12 @@ Except programming and tech, I like to research about various financial instrume
 - [PXE Pilot](https://github.com/aayusharyan/pxe-pilot) - Steer your homelab's PXE boot. [ 3⭐]
 - [Public Keys](https://github.com/aayusharyan/public-keys) - My SSH public keys. [ 1⭐]
 - [Contactly](https://github.com/aayusharyan/contactly) - Syncs Google and iCloud contacts with PBX database for caller ID name lookup. [ 3⭐]
-
+- [Stories](https://github.com/aayusharyan/stories) - My blog page. [ 0⭐]
+- [Relay](https://github.com/aayusharyan/relay) - PBX Page. [ 0⭐]
+- [Android to SIP](https://github.com/aayusharyan/android2sip) - Connect android to SIP. [ 0⭐]
+- [CUPS MCP Server](https://github.com/aayusharyan/cups-mcp-server) - CUPS MCP Server. [ 0⭐]
+- [Warden](https://github.com/aayusharyan/warden) - Another Website blocker. [ 0⭐]
+- [Dump](https://github.com/aayusharyan/yush-dump) - Photos for the world. [ 0⭐]
 
 ---
 
