@@ -27,7 +27,7 @@ Except programming and tech, I like to research about various financial instrume
 - [Relay](https://github.com/aayusharyan/relay) - PBX Page. [ 0⭐]
 - [Android to SIP](https://github.com/aayusharyan/android2sip) - Connect android to SIP. [ 0⭐]
 - [CUPS MCP Server](https://github.com/aayusharyan/cups-mcp-server) - CUPS MCP Server. [ 0⭐]
-- [Warden](https://github.com/aayusharyan/warden) - Another Website blocker. [ 0⭐]
+- [Warden](https://github.com/aayusharyan/warden) - Another Website blocker. [ 1⭐]
 - [Dump](https://github.com/aayusharyan/yush-dump) - Photos for the world. [ 0⭐]
 
 ---
