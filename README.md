@@ -12,23 +12,23 @@ Except programming and tech, I like to research about various financial instrume
 
 # OSS Projects
 
-- [yush.dev](https://github.com/aayusharyan/yush.dev) - Landing page for Aayush Sinha. [ 4⭐]
-- [Last Page Collection](https://github.com/aayusharyan/last-page-collection) - Collection of Interesting Last Pages. [ 58⭐]
-- [Knell](https://github.com/aayusharyan/knell) - The sound a bell makes. [ 1⭐]
-- [TokiTab](https://github.com/aayusharyan/tokitab) - New Tab page [ 3⭐]
-- [Looop Price Warehouse](https://github.com/aayusharyan/looop-price-warehouse) - Warehouse collector for Looop Denki electricity price data. [ 3⭐]
-- [Particle Text](https://github.com/aayusharyan/particle-text) - Library to create Text using Particles. [ 8⭐]
-- [Fake IIS](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8. [ 37⭐]
-- [Lab Map](https://github.com/aayusharyan/lab-map) - An interactive canvas-based visualizer for datacenter and lab infrastructure. [ 2⭐]
-- [PXE Pilot](https://github.com/aayusharyan/pxe-pilot) - Steer your homelab's PXE boot. [ 3⭐]
-- [Public Keys](https://github.com/aayusharyan/public-keys) - My SSH public keys. [ 1⭐]
-- [Contactly](https://github.com/aayusharyan/contactly) - Syncs Google and iCloud contacts with PBX database for caller ID name lookup. [ 3⭐]
-- [Stories](https://github.com/aayusharyan/stories) - My blog page. [ 0⭐]
-- [Relay](https://github.com/aayusharyan/relay) - PBX Page. [ 0⭐]
-- [Android to SIP](https://github.com/aayusharyan/android2sip) - Connect android to SIP. [ 0⭐]
 - [CUPS MCP Server](https://github.com/aayusharyan/cups-mcp-server) - CUPS MCP Server. [ 0⭐]
-- [Warden](https://github.com/aayusharyan/warden) - Another Website blocker. [ 1⭐]
+- [Lab Map](https://github.com/aayusharyan/lab-map) - An interactive canvas-based visualizer for datacenter and lab infrastructure. [ 2⭐]
+- [Contactly](https://github.com/aayusharyan/contactly) - Syncs Google and iCloud contacts with PBX database for caller ID name lookup. [ 3⭐]
+- [Fake IIS](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8. [ 37⭐]
+- [TokiTab](https://github.com/aayusharyan/tokitab) - New Tab page [ 3⭐]
+- [yush.dev](https://github.com/aayusharyan/yush.dev) - Landing page for Aayush Sinha. [ 4⭐]
+- [Looop Price Warehouse](https://github.com/aayusharyan/looop-price-warehouse) - Warehouse collector for Looop Denki electricity price data. [ 3⭐]
 - [Dump](https://github.com/aayusharyan/yush-dump) - Photos for the world. [ 0⭐]
+- [Knell](https://github.com/aayusharyan/knell) - The sound a bell makes. [ 1⭐]
+- [PXE Pilot](https://github.com/aayusharyan/pxe-pilot) - Steer your homelab's PXE boot. [ 3⭐]
+- [Relay](https://github.com/aayusharyan/relay) - PBX Page. [ 0⭐]
+- [Public Keys](https://github.com/aayusharyan/public-keys) - My SSH public keys. [ 1⭐]
+- [Stories](https://github.com/aayusharyan/stories) - My blog page. [ 0⭐]
+- [Last Page Collection](https://github.com/aayusharyan/last-page-collection) - Collection of Interesting Last Pages. [ 58⭐]
+- [Android to SIP](https://github.com/aayusharyan/android2sip) - Connect android to SIP. [ 0⭐]
+- [Particle Text](https://github.com/aayusharyan/particle-text) - Library to create Text using Particles. [ 8⭐]
+- [Warden](https://github.com/aayusharyan/warden) - Another Website blocker. [ 1⭐]
 
 ---
 
