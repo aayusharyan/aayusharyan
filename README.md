@@ -27,7 +27,7 @@ Except programming and tech, I like to research about various financial instrume
 - [Android to SIP](https://github.com/aayusharyan/android2sip) - WIP - Connect android to SIP. [ 1⭐]
 - [TokiTab](https://github.com/aayusharyan/tokitab) - WIP - New Tab page [ 3⭐]
 - [Warden](https://github.com/aayusharyan/warden) - WIP - Another Website blocker. [ 1⭐]
-- [yush.dev](https://github.com/aayusharyan/yush.dev) - Landing page for Aayush Sinha. [ 4⭐]
+- [yush.dev](https://github.com/aayusharyan/yush.dev) - WIP - Landing page for Aayush Sinha. [ 4⭐]
 - [Looop Price Warehouse](https://github.com/aayusharyan/looop-price-warehouse) - Warehouse collector for Looop Denki electricity price data. [ 3⭐]
 
 ---
