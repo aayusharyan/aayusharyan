@@ -25,7 +25,7 @@ Except programming and tech, I like to research about various financial instrume
 - [yush.dev](https://github.com/aayusharyan/yush.dev) - WIP - Landing page for Aayush Sinha. [ 4⭐]
 - [Knell](https://github.com/aayusharyan/knell) - WIP - The sound a bell makes. [ 1⭐]
 - [Dump](https://github.com/aayusharyan/yush-dump) - WIP - Photos for the world. [ 1⭐]
-- [Last Page Collection](https://github.com/aayusharyan/last-page-collection) - Collection of Interesting Last Pages. [ 58⭐]
+- [Last Page Collection](https://github.com/aayusharyan/last-page-collection) - Collection of Interesting Last Pages. [ 57⭐]
 - [Fake IIS](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8. [ 37⭐]
 - [PXE Pilot](https://github.com/aayusharyan/pxe-pilot) - Steer your homelab's PXE boot. [ 3⭐]
 - [CUPS MCP Server](https://github.com/aayusharyan/cups-mcp-server) - WIP - CUPS MCP Server. [ 1⭐]
