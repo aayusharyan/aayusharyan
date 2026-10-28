@@ -25,7 +25,7 @@ Except programming and tech, I like to research about various financial instrume
 - [Looop Price Warehouse](https://github.com/aayusharyan/looop-price-warehouse) - Warehouse collector for Looop Denki electricity price data. [ 3⭐]
 - [Android to SIP](https://github.com/aayusharyan/android2sip) - WIP - Connect android to SIP. [ 1⭐]
 - [Contactly](https://github.com/aayusharyan/contactly) - WIP - Syncs Google and iCloud contacts with PBX database for caller ID name lookup. [ 3⭐]
-- [Last Page Collection](https://github.com/aayusharyan/last-page-collection) - Collection of Interesting Last Pages. [ 56⭐]
+- [Last Page Collection](https://github.com/aayusharyan/last-page-collection) - Collection of Interesting Last Pages. [ 57⭐]
 - [CUPS MCP Server](https://github.com/aayusharyan/cups-mcp-server) - WIP - CUPS MCP Server. [ 1⭐]
 - [Warden](https://github.com/aayusharyan/warden) - WIP - Another Website blocker. [ 1⭐]
 - [Public Keys](https://github.com/aayusharyan/public-keys) - My SSH public keys. [ 1⭐]
